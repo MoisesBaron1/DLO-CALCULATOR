@@ -23,13 +23,13 @@
     },
     ES8000: {
       name: "ES-8000/T",
-      frames: { single: 4.125, jambEdge: 3.875, center: 3.125 },
-      lites:  { single: 2.0,   jambEdge: 1.0,   center: 0.0 }
+      frames: { single: 5.5, jambEdge: 4.625, center: 3.75 },
+      lites:  { single: 5.5,   jambEdge: 4.625,   center: 3.75 }
     },
     CW: {
       name: "CW (1032-7525-7000)",
-      frames: { single: 2.0, jambEdge: 1.0, center: 0.0 },
-      lites:  { single: 2.0, jambEdge: 1.0, center: 0.0 }
+      frames: { single: 5, jambEdge: 3.75, center: 2.5 },
+      lites:  { single: 5, jambEdge: 3.75, center: 2.5 }
     }
   };
 
